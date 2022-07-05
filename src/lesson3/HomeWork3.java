@@ -2,7 +2,6 @@ package lesson3;
 
 public class HomeWork3 {
     public static void main(String[] args) {
-        method5 (12,7);
 
         //ex1
         int[] arr1 = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
